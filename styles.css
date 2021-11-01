@@ -27,6 +27,7 @@ textarea {
 }
 
 button{
+    display: block;
     background-color:cornflowerblue;
     padding:0.5rem 1rem;
     border-radius: 1rem 1rem;
